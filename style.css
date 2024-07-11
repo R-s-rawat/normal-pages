@@ -25,11 +25,36 @@ body{
     width: 70%;
     position: relative;
     right: 0;
-    background-color: rgb(233, 128, 252);
-}
+   }
 .nav2a{
     font-weight: 500;
 }
 .nav2 li{
     padding: 0 1rem;
 }
+/* ************************ */
+.Home{
+    width: 100%;
+}
+.home_main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 2rem 3rem;
+}
+.home1{
+    width: 10%;
+}
+.home2{
+    width: 50%;
+}
+.home3{
+    width: 40%;
+}
+.home1_col2 h4{
+    padding: 1rem;
+    font-size: 1.3rem;
+}
+/* ************************ */
+
+
