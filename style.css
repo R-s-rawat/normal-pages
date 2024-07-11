@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+body{
+    background: #eaf3f5;
+}
+.nav{
+    width:100%;
+}
+.nav_main{
+    display: flex;
+    align-items: center;
+    padding: 1rem 4rem ;
+}
+.nav1{
+    width: 30%;
+}
+.nav2{
+    width: 70%;
+    float: right;
+}
+.nav2a{
+    font-weight: 500;
+}
+.nav2 li{
+    padding: 0 1rem;
+}
