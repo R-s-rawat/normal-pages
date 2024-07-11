@@ -23,7 +23,8 @@ body{
 }
 .nav2{
     width: 70%;
-    float: right;
+    position: relative;
+    right: 0;
     background-color: rgb(233, 128, 252);
 }
 .nav2a{
